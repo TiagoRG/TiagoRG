@@ -1,7 +1,6 @@
-# Oh! Hello there!
-## About me
+# Oh! Hello there!👋
 ### Computer and software engineering student at <a href="https://github.com/detiuaveiro">![](https://img.shields.io/static/v1?label=deti&message=ua&color=green&style=flat)</a>
-
+---
 ## GitHub stats
 <a href="https://github.com/TiagoRG">
   <img src="https://img.shields.io/github/followers/TiagoRG?style=flat&color=blue&label=Followers"/>

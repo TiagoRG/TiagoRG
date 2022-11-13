@@ -12,4 +12,5 @@
 ## Suggested repositories
 <a href="https://github.com/TiagoRG/uaveiro-leci">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoRG&repo=uaveiro-leci&theme=react&show_owner=true"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoRG&repo=BinaryConverter&theme=react&show_owner=true"/>
 </a>

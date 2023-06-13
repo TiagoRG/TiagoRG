@@ -6,7 +6,7 @@
 
 ## Connections
 [![Send Email](https://img.shields.io/static/v1?message=Send%20Email&logo=microsoft-outlook&logoColor=0078d4&labelColor=3c3c3c&color=0078d4&label=)](mailto:tiago.rgarcia@ua.pt)
-[![Discord](https://img.shields.io/static/v1?message=Rended%238003&logo=discord&labelColor=3c3c3c&color=5662f6&label=)](https://discordapp.com/users/376017298294702081)
+[![Discord](https://img.shields.io/static/v1?message=tiagorg&logo=discord&labelColor=3c3c3c&color=5662f6&label=)](https://discordapp.com/users/376017298294702081)
 [![Matrix](https://img.shields.io/static/v1?message=@tiagorg:matrix.org&logo=element&labelColor=3c3c3c&color=0dbd8b&logoColor=0dbd8b&label=)](https://matrix.to/#/@tiagorg:matrix.org)
 [![Instagram](https://img.shields.io/static/v1?message=tiago.rgarcia&logo=instagram&labelColor=3c3c3c&color=e4405f&label=)](https://www.instagram.com/tiago.rgarcia/)
 [![GitLab](https://img.shields.io/static/v1?message=TiagoRG&logo=gitlab&labelColor=3c3c3c&color=e24329&label=)](https://gitlab.com/TiagoRG)

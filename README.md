@@ -14,7 +14,7 @@
 
 ## Support me
 [![PayPal](https://img.shields.io/static/v1?message=TiagoRGarcia&logo=paypal&labelColor=3c3c3c&color=009cde&label=)](https://paypal.me/TiagoRGarcia)
-[![Patreon](https://img.shields.io/static/v1?message=TiagoRG&logo=patreon&labelColor=3c3c3c&color=ff424d&label=)](https://www.patreon.com/tiagorg)
+[![Patreon](https://img.shields.io/static/v1?message=TiagoRG&logo=patreon&logoColor=e73e47&labelColor=3c3c3c&color=ff424d&label=)](https://www.patreon.com/tiagorg)
 
 ---
 

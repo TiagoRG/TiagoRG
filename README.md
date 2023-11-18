@@ -25,5 +25,5 @@
 [![Neovim User](https://img.shields.io/static/v1?message=Main%20Editor&logo=neovim&labelColor=5d5d5d&color=57a143&label=Neovim)](https://github.com/TiagoRG/dotfiles/tree/main/.config/nvim)
 <br>
 <a href="https://github.com/TiagoRG">
-  <img src="https://raw.githubusercontent.com/TiagoRG/TiagoRG/master/generated/overview.svg#gh-dark-mode-only" /><img src="https://raw.githubusercontent.com/TiagoRG/TiagoRG/master/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/TiagoRG/TiagoRG/main/generated/overview.svg#gh-dark-mode-only" /><img src="https://raw.githubusercontent.com/TiagoRG/TiagoRG/main/generated/languages.svg#gh-dark-mode-only" />
 </a>

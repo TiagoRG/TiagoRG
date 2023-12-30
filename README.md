@@ -1,6 +1,6 @@
 # About Me
 #### [Computer and informatics engineering](https://github.com/TiagoRG/uaveiro-leci) student at [Universidade de Aveiro](https://www.ua.pt/) - [Departamento de Eletrónica, Telecomunicações e Informática](https://github.com/detiuaveiro). All work related to this can be found [here](https://github.com/TiagoRG/uaveiro-leci).
-#### Member and vice-coordinator at [GLUA (Grupo de Linux da Universidade de Aveiro](https://glua.ua.pt/).
+#### Member and vice-coordinator at [GLUA (Grupo de Linux da Universidade de Aveiro)](https://glua.ua.pt/).
 
 ---
 

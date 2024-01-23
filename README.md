@@ -6,9 +6,9 @@
 
 ### Connections
 [![Send Email](https://img.shields.io/static/v1?message=Send%20Email&logo=thunderbird&logoColor=&labelColor=5d5d5d&color=0a84ff&label=)](mailto:tiago.rgarcia@ua.pt)
+[![LinkedIn](https://img.shields.io/static/v1?message=/in/TiagoRGarcia&logo=linkedin&labelColor=5d5d5d&color=0a66c2&label=&logoColor=0a66c2)](https://www.linkedin.com/in/tiagorgarcia/)
 [![Discord](https://img.shields.io/static/v1?message=tiagorg&logo=discord&labelColor=5d5d5d&color=5662f6&label=)](https://discordapp.com/users/376017298294702081)
 [![Matrix](https://img.shields.io/static/v1?message=@tiagorg:matrix.org&logo=element&labelColor=5d5d5d&color=0dbd8b&logoColor=0dbd8b&label=)](https://matrix.to/#/@tiagorg:matrix.org)
-[![Instagram](https://img.shields.io/static/v1?message=tiago.rgarcia&logo=instagram&labelColor=5d5d5d&color=e4405f&label=)](https://www.instagram.com/tiago.rgarcia/)
 [![GitLab](https://img.shields.io/static/v1?message=TiagoRG&logo=gitlab&labelColor=5d5d5d&color=e24329&label=)](https://gitlab.com/TiagoRG)
 [![StackOverflow](https://img.shields.io/static/v1?message=TiagoRG&logo=stackoverflow&labelColor=5d5d5d&color=f58025&label=)](https://stackoverflow.com/users/21932555/tiagorg)
 
